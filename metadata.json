@@ -1,0 +1,7 @@
+{
+  "name": "Toko Sayur - Farm Fresh Delivery",
+  "description": "A premium farm-to-table vegetable delivery platform featuring AI-powered recipe suggestions and a seamless shopping experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
